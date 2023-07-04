@@ -1,2 +1,14 @@
-# django4everybody
-Coursersa specialization Django for Everybody
+# Django for Everybody
+
+Coursersa specialization Django for Everybody by Charles Severance
+
+## Web Application Technologies and Django (course_1)
+
+### Introduction to Dynamic Web Content
+
+#### Building a Simple Web Browser in Python
+
+Code: 
+
+- `socket1.py`
+
