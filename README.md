@@ -12,3 +12,11 @@ Code:
 
 - `socket1.py`
 
+#### Building a Simple HTTP Server in Python
+
+Code:
+
+- `server.py`
+- `client1.py`
+- `client2.py`
+
